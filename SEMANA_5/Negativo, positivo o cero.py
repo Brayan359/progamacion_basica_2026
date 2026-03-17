@@ -12,6 +12,7 @@
 #Resultado <0
 #Escribir "es igual 0"
 #Escribir "si es igual 0 es neutro"
+#Fin
 
 
 numero=int(input("digite un numero entero"))
